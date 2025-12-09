@@ -2,7 +2,7 @@
 #define REMOTE_CONTROLLER_H
 
 #include <Arduino.h>
-#include "common.h"
+#include "main.h"
 #include <Preferences.h>
 #define ATYPE_REMOTE_UP_BTN 0x04
 #define ATYPE_REMOTE_DOWN_BTN 0x08

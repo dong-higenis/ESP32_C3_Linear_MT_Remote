@@ -2,7 +2,7 @@
 #define REMOTE_WIFI_H
 
 #include <Arduino.h>
-#include "common.h"
+#include "main.h"
 #include <WiFi.h>
 
 void wifiSetup(void);
